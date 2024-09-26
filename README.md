@@ -13,7 +13,8 @@ Welcome to my GitHub profile! I'm a passionate developer skilled in both fronten
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Paystack](https://img.shields.io/badge/Paystack?style=for-the-badge&logo=paystack&logoColor=white)
+![Paystack](https://img.shields.io/badge/Paystack-29A3E5?style=for-the-badge&logo=paystack&logoColor=white)
+
 
 ## 🔧 Tools
 
