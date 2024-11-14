@@ -33,10 +33,11 @@ Welcome to my GitHub profile! I'm a passionate developer skilled in both fronten
 - Advanced Flutter
 - Serverless Architectures
 - Performance Optimization in React
+- Cybersecurity with NetAcad
 
 ## 💬 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/)
+- [LinkedIn](https://www.linkedin.com/soskode)
 - [Twitter](https://twitter.com/)
 - [WhatsApp](https://wa.me/+233559708485)
 
